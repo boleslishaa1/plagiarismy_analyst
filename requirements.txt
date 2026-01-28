@@ -1,0 +1,26 @@
+# Core dependencies
+python-docx>=0.8.11
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+pymupdf>=1.22.0
+lxml>=4.9.0
+
+# NLP and ML
+nltk>=3.8.0
+scikit-learn>=1.2.0
+sentence-transformers>=2.2.0
+numpy>=1.24.0
+
+# Data processing
+pandas>=2.0.0
+
+# Reporting
+reportlab>=4.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Development and testing
+pytest>=7.3.0
+pytest-cov>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
